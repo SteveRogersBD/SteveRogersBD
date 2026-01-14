@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/steverogersbd">GitHub</a> •
-  <a href="https://www.linkedin.com/in/aniruddhabiswasatanu/">LinkedIn</a> •
-  <a href="mailto:aniruddhabiswas105@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/aniruddha-biswas-atanu-16b708228/">LinkedIn</a> •
+  <a href="mailto:cd43641@truman.edu">Email</a>
 </p>
 
 ---
