@@ -1,4 +1,11 @@
 <h1 align="center">Aniruddha Biswas Atanu</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-0A0A0A?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0A0A0A?style=flat" />
+  <img src="https://img.shields.io/badge/AI%20Systems-0A0A0A?style=flat&logo=google&logoColor=white" />
+</p>
+
 <h3 align="center">Software Engineer • Backend & Distributed Systems • AI-Powered Products</h3>
 
 <p align="center">
