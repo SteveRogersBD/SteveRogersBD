@@ -1,22 +1,91 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Biswas Atanu</h1>
-<h3 align="center">Passionate programmer on a mission to unravel complexity and make problems disappear in the blink of a compile.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2jCq1qIGPqroZFgWgnTeop&ust=1705567966042000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPiXkvuF5IMDFQAAAAAdAAAAABAJ">
+<h1 align="center">Aniruddha Biswas Atanu</h1>
+<h3 align="center">Software Engineer • Backend & Distributed Systems • AI-Powered Products</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steverogersbd" alt="steverogersbd" /></a> </p>
-
-- 📫 How to reach me **aniruddhabiswas105@gmail.com**
-
-- ⚡ Fun fact **I am Captain America.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniruddha biswas atanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha biswas atanu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aniruddhab01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniruddhab01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniruddha_biswas_atanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniruddha_biswas_atanu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aniruddhabiswas1051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniruddhabiswas1051" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/steverogersbd">GitHub</a> •
+  <a href="https://www.linkedin.com/in/aniruddhabiswasatanu/">LinkedIn</a> •
+  <a href="mailto:aniruddhabiswas105@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steverogersbd&show_icons=true&locale=en&layout=compact" alt="steverogersbd" /></p>
+## About Me
+
+I am a Computer Science student at **Truman State University (GPA: 4.00)** building production-grade systems at the intersection of **backend engineering, distributed systems, and applied AI**.
+
+My focus areas:
+- Scalable backend architectures (Spring Boot, microservices)
+- Event-driven systems (Kafka, RabbitMQ)
+- Cloud-native deployment (Docker, AWS, CI/CD)
+- AI-powered workflows integrated into real products
+
+I prioritize **clean architecture, measurable impact, and systems that hold up under real users**.
+
+---
+
+## Experience Highlights
+
+**Co-Founder & Full-Stack Developer — Souna**  
+Built and launched a global audio streaming platform serving thousands of monthly users.  
+Designed low-latency edge infrastructure using Cloudflare Workers and Pages, achieving 99.9% uptime.
+
+**Backend Engineer — LNA Bikes**  
+Architected scalable REST APIs using Spring Boot and Java for high-throughput inventory systems.  
+Deployed microservices on AWS EKS with automated CI/CD pipelines and zero-downtime releases.
+
+**Research Assistant — Truman State University**  
+Researched interactive exergame design and implemented concurrent systems for gesture detection, video playback, and real-time feedback.
+
+---
+
+## Selected Projects
+
+**CalorieChase** — Gamified Step-Tracking Platform  
+- Designed Spring Cloud microservices separating routing, scoring, and session traffic  
+- Implemented AI-driven route generation using generative models and geospatial data  
+- Containerized and deployed services on AWS for safe scaling during live demos  
+
+**AgroHub** — AI-Powered Smart Farming Platform  
+- Built crop disease detection workflows using image analysis and weather intelligence  
+- Designed backend services with role-based access and secure data ingestion  
+- Optimized for unreliable connectivity in rural environments  
+
+**WiggleWorld** — Gesture-Based Exergame for Kids  
+- Implemented a real-time game loop coordinating CV input and video playback  
+- Used MediaPipe and OpenCV for gesture and posture recognition  
+- Enabled parent-controlled sessions via Kafka-based event orchestration  
+
+---
+
+## Tech Stack
+
+**Languages**  
+Java • Kotlin • Python • C++ • JavaScript • SQL  
+
+**Backend & Systems**  
+Spring Boot • Kafka • RabbitMQ • Redis • MySQL • MongoDB • REST APIs  
+
+**Cloud & DevOps**  
+Docker • AWS • CI/CD • Git • Maven • Jenkins  
+
+**Frontend & Mobile**  
+Android (Jetpack Compose) • React • Material Design  
+
+---
+
+## Achievements
+
+- 🏆 TigerHacks 2025 — Third Prize  
+- 🏆 Build for Everyone with Gemini — Champion  
+- 🏆 TruHacks 2024 — Winner  
+- 🏆 PickHacks 2024 — Most Voted Project  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=steverogersbd&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steverogersbd&layout=compact&hide_border=true" />
+</p>
