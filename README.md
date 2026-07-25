@@ -5,8 +5,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3161,28:B31942,50:E6EDF3,72:B31942,100:0A3161&height=230&section=header&text=ANIRUDDHA%20BISWAS%20ATANU&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems%20%7C%20AI-Powered%20Products&descSize=15&descAlignY=54&descColor=FFFFFF" alt="Aniruddha Biswas Atanu — Software Engineer" />
-
+<img
+  width="50%"
+  height="50%"
+  src="https://drive.google.com/uc?export=view&amp;id=19izPPfHya1ybg8Lb_XuVDdU9wvpieWFW"
+  alt="Captain America shield banner"
+/>
 <h3>🛡️ Building reliable systems. Solving meaningful problems. Standing behind the code.</h3>
 
 <a href="https://git.io/typing-svg">
