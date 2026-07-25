@@ -8,7 +8,7 @@
 <img
   width="50%"
   height="50%"
-  src="https://drive.google.com/uc?export=view&amp;id=19izPPfHya1ybg8Lb_XuVDdU9wvpieWFW"
+  src="https://drive.google.com/uc?export=view&amp;id=1vIdYpncZlvgfAiYYuIz1YWX-XJuSzgDm"
   alt="Captain America shield banner"
 />
 <h3>🛡️ Building reliable systems. Solving meaningful problems. Standing behind the code.</h3>
