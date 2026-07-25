@@ -164,10 +164,17 @@ principles:
 <div align="center">
 
 <a href="https://github.com/SteveRogersBD">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SteveRogersBD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=B31942&text_color=E6EDF3&ring_color=B31942" alt="Aniruddha's GitHub statistics" />
-</a>
-<a href="https://github.com/SteveRogersBD">
-  <img width="49%" src="https://streak-stats.demolab.com?user=SteveRogersBD&hide_border=true&background=0D1117&ring=B31942&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
+  <img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SteveRogersBD&theme=github_dark"
+  alt="Aniruddha's GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SteveRogersBD&theme=github_dark"
+  alt="Most-used languages"
+/>
 </a>
 
 <br />
