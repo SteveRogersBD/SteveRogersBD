@@ -5,12 +5,13 @@
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://lh3.googleusercontent.com/d/1vIdYpncZlvgfAiYYuIz1YWX-XJuSzgDm=w1600"
-  alt="Captain America shield banner"
-/>
-<h3>🛡️ Building reliable systems. Solving meaningful problems. Standing behind the code.</h3>
+<img width="100%" src="https://lh3.googleusercontent.com/d/1vIdYpncZlvgfAiYYuIz1YWX-XJuSzgDm=w1600" alt="Captain America shield banner" />
+
+<h1>Aniruddha Biswas Atanu</h1>
+
+<h3>Software Engineer • Backend & Distributed Systems • AI-Powered Products</h3>
+
+<p>🛡️ Building reliable systems. Solving meaningful problems. Standing behind the code.</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=75&lines=I+can+do+this+all+day.;Backend+Engineering+%E2%80%A2+Distributed+Systems+%E2%80%A2+Applied+AI;Building+software+that+holds+the+line." alt="Animated introduction" />
@@ -43,7 +44,7 @@
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3161,50:E6EDF3,100:B31942&height=4&section=header" alt="" />
+---
 
 ## 🧭 The Mission Brief — About Me
 
@@ -96,7 +97,7 @@ principles:
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B31942,50:E6EDF3,100:0A3161&height=4&section=header" alt="" />
+---
 
 ## 🎖️ Service Record — Experience Highlights
 
@@ -108,7 +109,7 @@ principles:
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3161,50:E6EDF3,100:B31942&height=4&section=header" alt="" />
+---
 
 ## 🏅 Medals Earned — Achievements
 
@@ -139,7 +140,7 @@ principles:
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B31942,50:E6EDF3,100:0A3161&height=4&section=header" alt="" />
+---
 
 ## 🚀 Operations Log — Featured Projects
 
@@ -157,30 +158,29 @@ principles:
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3161,50:E6EDF3,100:B31942&height=4&section=header" alt="" />
+---
 
 ## 📡 Command Center — GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/SteveRogersBD">
-  <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SteveRogersBD&theme=github_dark"
-  alt="Aniruddha's GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SteveRogersBD&theme=github_dark"
-  alt="Most-used languages"
-/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SteveRogersBD&amp;theme=github_dark" alt="Aniruddha's GitHub statistics" />
+</a>
+<a href="https://github.com/SteveRogersBD">
+  <img width="49%" src="https://streak-stats.demolab.com?user=SteveRogersBD&hide_border=true&background=0D1117&ring=B31942&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
 </a>
 
 <br />
 <br />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveRogersBD&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&langs_count=8" alt="Most-used languages" />
+### Most-Used Languages
+
+<img src="https://img.shields.io/badge/1-Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white&amp;labelColor=0D1117" alt="Java" />
+<img src="https://img.shields.io/badge/2-Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white&amp;labelColor=0D1117" alt="Kotlin" />
+<img src="https://img.shields.io/badge/3-TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=0D1117" alt="TypeScript" />
+<img src="https://img.shields.io/badge/4-JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black&amp;labelColor=0D1117" alt="JavaScript" />
+<img src="https://img.shields.io/badge/5-C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;labelColor=0D1117" alt="C++" />
 
 <br />
 <br />
@@ -192,13 +192,27 @@ principles:
 
 ### 🔝 Top Contributed Repositories
 
-<img width="48%" src="https://github-contributor-stats.vercel.app/api?username=SteveRogersBD&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" alt="Top contributed repositories" />
+<a href="https://github.com/SteveRogersBD/AgroHub">
+  <img src="https://img.shields.io/github/stars/SteveRogersBD/AgroHub?style=for-the-badge&amp;logo=github&amp;label=AgroHub&amp;color=0A3161&amp;labelColor=0D1117" alt="AgroHub" />
+</a>
+<a href="https://github.com/SteveRogersBD/ExerGame-Kiro">
+  <img src="https://img.shields.io/github/stars/SteveRogersBD/ExerGame-Kiro?style=for-the-badge&amp;logo=github&amp;label=WiggleWorld&amp;color=B31942&amp;labelColor=0D1117" alt="WiggleWorld" />
+</a>
+<a href="https://github.com/SteveRogersBD/PlateIt">
+  <img src="https://img.shields.io/github/stars/SteveRogersBD/PlateIt?style=for-the-badge&amp;logo=github&amp;label=PlateIt&amp;color=0A3161&amp;labelColor=0D1117" alt="PlateIt" />
+</a>
+<a href="https://github.com/SteveRogersBD/Raven">
+  <img src="https://img.shields.io/github/stars/SteveRogersBD/Raven?style=for-the-badge&amp;logo=github&amp;label=Raven&amp;color=B31942&amp;labelColor=0D1117" alt="Raven" />
+</a>
+<a href="https://github.com/SteveRogersBD/Gateway-Smart">
+  <img src="https://img.shields.io/github/stars/SteveRogersBD/Gateway-Smart?style=for-the-badge&amp;logo=github&amp;label=Gateway--Smart&amp;color=0A3161&amp;labelColor=0D1117" alt="Gateway Smart" />
+</a>
 
 </div>
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B31942,50:E6EDF3,100:0A3161&height=4&section=header" alt="" />
+---
 
 ## ⚡ Recent Deployments — GitHub Activity
 
@@ -212,7 +226,7 @@ _New field reports will appear here._
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3161,50:E6EDF3,100:B31942&height=4&section=header" alt="" />
+---
 
 ## 🎧 Mission Soundtrack — Currently Listening To
 
@@ -231,7 +245,7 @@ _New field reports will appear here._
 
 <br />
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B31942,50:E6EDF3,100:0A3161&height=4&section=header" alt="" />
+---
 
 <div align="center">
 
@@ -264,4 +278,12 @@ _New field reports will appear here._
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B31942,28:0A3161,50:E6EDF3,72:0A3161,100:B31942&height=145&section=footer&text=CODE%20WITH%20COURAGE.%20BUILD%20WITH%20PURPOSE.&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=68" alt="Code with courage. Build with purpose." />
+---
+
+<div align="center">
+
+### ⭐ CODE WITH COURAGE • BUILD WITH PURPOSE ⭐
+
+🛡️ **On your left.**
+
+</div>
